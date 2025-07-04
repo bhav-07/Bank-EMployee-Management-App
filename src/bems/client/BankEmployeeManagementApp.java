@@ -14,6 +14,8 @@ class BankEmployeeManagementApp {
 
 //    Commit from dev-branch
     //Another commit from dev-branch
+    //lorem ipsum dolor sit amet, consectetur adipiscing elit
+    //sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
     public BankEmployeeManagementApp() {
         this.employeeService = new BankEmployeeService();
         this.scanner = new Scanner(System.in);
